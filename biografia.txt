@@ -1,3 +1,5 @@
-Mi nombre es Lautaro Acevedo
+Mi nombre es Lautaro Acevedo.
 
 Soy alumno de la carrera de TSDS.
+
+En el Instituto Superior de Profesorado N°20 "Nestor J. Zamaro".
