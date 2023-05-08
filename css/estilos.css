@@ -19,8 +19,13 @@ body{
     color: mediumvioletred;
     text-align: left;
     padding: 10px;
+    text-decoration: underline;
 }
 
 span{
     font-size: 36px;
+}
+
+.cabecera:hover{
+    transform: scale(1.1);
 }
